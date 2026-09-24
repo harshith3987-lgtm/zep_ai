@@ -1,0 +1,8 @@
+eful for sending multiple values
+       between *actors*, or for accumulating output. Can be configured to deduplicate
+       values, and/or to accumulate values over the course of multiple steps.
+
+    ### Advanced channels: Context and BinaryOperatorAggregate
+
+    - `Context`: exposes the value of a context manager, managing its lifecycle.
+        Useful for accessing external resources that requ
