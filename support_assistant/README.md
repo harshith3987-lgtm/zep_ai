@@ -1,4 +1,3 @@
-````markdown
 # Module 3: Grounded Support Assistant (`/support_assistant`)
 
 ## 1. Overview
@@ -717,4 +716,4 @@ Streamlit
 The implementation provides a reproducible offline baseline for answering questions grounded in the supplied Zepto policy documents.
 
 ```
-```
+
